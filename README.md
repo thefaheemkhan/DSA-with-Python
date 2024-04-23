@@ -1,4 +1,4 @@
 # MLOps 101
 
-This is MLOps Specialization course on Coursera 
+MLOps-101 Repository contains Important topics from tools and language, that are required to Excel in the Machine Learning Operations and Deployment MLOps field. 
 
